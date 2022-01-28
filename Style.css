@@ -1,0 +1,19 @@
+.test_image_and_result{
+    background-color: black;
+    color: white;
+}
+
+p{ 
+    background-color: white;   
+    color: blue;    
+}
+
+body{
+    font-size: 30px;
+    background-color: blue;
+}
+
+.mini_result{
+    background-color: white;
+    font-size: 30px;
+}
